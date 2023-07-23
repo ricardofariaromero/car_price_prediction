@@ -2,7 +2,9 @@
 
 Through a database (26 features, 205 records) containing vehicles physical and mechanical characteristics, it was able to develop a prediction model for car price.
 
+<p align="center">
 ![alt text](https://github.com/ricardofariaromero/car_price_prediction/blob/main/images/car.png)
+</p>
 
 ## Variables
 
