@@ -1,12 +1,9 @@
 # Car price prediction
 
 Through a database (26 features, 205 records) containing vehicles physical and mechanical characteristics, it was able to develop a prediction model for car price.
-
-<p align="center">
     
-[alt text](https://github.com/ricardofariaromero/car_price_prediction/blob/main/images/car.png)
+![alt text](https://github.com/ricardofariaromero/car_price_prediction/blob/main/images/car.png)
 
-</p>
 
 ## Variables
 
@@ -76,12 +73,12 @@ The following libraries were used during this project:
 
 In the following graph we can se the impact of variables on price: First, the numerical features:
 
-
-
+    
+![alt text](https://github.com/ricardofariaromero/car_price_prediction/blob/main/images/numerical.png)
 
 And the categorical:
 
-
+![alt text](https://github.com/ricardofariaromero/car_price_prediction/blob/main/images/categorical.png)
 
 
 Regarding the model, it was finally implemented a "Random Forest Regressor" with the application of hyperparameters ('bootstrap': True, 'max_depth': 30, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 50), obtaining the following metrics:
@@ -91,7 +88,7 @@ Regarding the model, it was finally implemented a "Random Forest Regressor" with
     - Mean Absolute Error: 888.20
     - R2: 0.9735
 
-    
+                        ![alt text](https://github.com/ricardofariaromero/car_price_prediction/blob/main/images/Output.png)
 
 ## Credits
 
