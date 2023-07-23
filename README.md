@@ -2,6 +2,8 @@
 
 Through a database (26 features, 205 records) containing vehicles physical and mechanical characteristics, it was able to develop a prediction model for car price.
 
+![alt text](https://github.com/ricardofariaromero/car_price_prediction/blob/main/images/car.png)
+
 ## Variables
 
 For this study the following variables has been analyzed:
@@ -84,6 +86,8 @@ Regarding the model, it was finally implemented a "Random Forest Regressor" with
     - Root Mean Squared Error: 1297.20
     - Mean Absolute Error: 888.20
     - R2: 0.9735
+
+    
 
 ## Credits
 
