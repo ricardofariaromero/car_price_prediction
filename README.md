@@ -88,8 +88,8 @@ Regarding the model, it was finally implemented a "Random Forest Regressor" with
     - Mean Absolute Error: 888.20
     - R2: 0.9735
 
-                        ![alt text](https://github.com/ricardofariaromero/car_price_prediction/blob/main/images/Output.png)
+![alt text](https://github.com/ricardofariaromero/car_price_prediction/blob/main/images/Output.png)
 
 ## Credits
 
-All code and development performed by Ricardo Faría: https://www.linkedin.com/in/ricardo-e-faria-romero/?locale=en_US
+All code and development performed by [Ricardo Faría](https://www.linkedin.com/in/ricardo-e-faria-romero/?locale=en_US) 
